@@ -9,6 +9,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    
+    <p>je suis un paragraphe</P>
 </body>
 </html>
